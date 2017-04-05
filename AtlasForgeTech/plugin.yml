@@ -1,0 +1,8 @@
+name: Smeltery
+main: com.atlasmc.atlasforgetech.AtlasForgeTech
+version: 2.0.1
+commands:
+   smeltery:
+      description: Give yourself Smeltery Alloys!
+      usage: /smeltery <RecipeTag>
+      default: op
